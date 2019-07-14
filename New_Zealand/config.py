@@ -1,1 +1,0 @@
-yelp_api = 'pLRpP-Ctn9CF-9Pv4eXgyulGS3tefho9eJuj7gT3enKJbN8KwbNSwpSRdnnVs0o9j_zvivaDb-G3xXNQs8qHGhicjE0ilkIp2WilAcaQVYlkr661CdspJDKHYs4nXXYx'
